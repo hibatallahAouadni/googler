@@ -1,3 +1,5 @@
+<a href="https://itsfoss.com/review-googler-linux/">Googler Documentation</a>
+
 <h1 align="center"><img src="https://cdn.rawgit.com/jarun/googler/master/googler.svg" alt="googler" /></h1>
 
 <p align="center">
